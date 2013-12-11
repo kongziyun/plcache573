@@ -1,11 +1,15 @@
-EECS 573 Term Project 
-AES Attack Implementation
-  Ziyun Kong
-  kongzy@umich.edu
-=========
+  AES Attack Implementation
+---------
 
 This is a cache-timing attack on AES implementation modified based on Bernstein's attack.
+
 http://cr.yp.to/antiforgery/cachetiming-20050414.pdf
+
+Author: Ziyun Kong
+
+kongzy@umich.edu
+-------------------------------
+
 
 1. Compiling:
 
