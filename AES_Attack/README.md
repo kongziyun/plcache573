@@ -5,9 +5,10 @@ This is a cache-timing attack on AES implementation modified based on Bernstein'
 
 http://cr.yp.to/antiforgery/cachetiming-20050414.pdf
 
-Author: Ziyun Kong
+	Author: Ziyun Kong
 
-kongzy@umich.edu
+	Contact: kongzy@umich.edu
+
 -------------------------------
 
 

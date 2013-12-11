@@ -1,11 +1,15 @@
-EECS 573 Term Project
 PL Cache Implementation on Gem5
-	Ziyun Kong, Xiaoyu Zheng, Cheng Li
-	{kongzy, xiaoyuzh, elfchris}@umich.edu
 =======
+
 This is a PL-Cache implementation on Gem5.
+
 Reference for PL-Cache model: http://www.cs.cmu.edu/afs/cs/Web/People/lba/LBA_reading_group/papers/Sidechannel_isca07.pdf
 
+	Authors: Ziyun Kong, Xiaoyu Zheng, Cheng Li
+
+	Contacts: {kongzy, xiaoyuzh, elfchris}@umich.edu
+
+-----------------------------
 1. Build Gem5:
 
 		$ scons build/X86/gem5.opt

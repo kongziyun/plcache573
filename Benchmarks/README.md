@@ -1,12 +1,15 @@
-EECS 573 Term Project 
-Testbench 
-  Ziyun Kong
-  kongzy@umich.edu
+ Testbench 
 ==============
 
 This is a suite of testbench modified based on MiBench V1.0.
+
   http://www.eecs.umich.edu/mibench/
 
+	Author: Ziyun Kong
+
+	Contact: kongzy@umich.edu
+
+--------------------------
 1. Make:
 
     $ make gem5
